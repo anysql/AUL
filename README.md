@@ -15,3 +15,4 @@
 
 # AUL(MyDUL)版本
 V6.6 完善对12C CLOB类型的支持; 增加对头部损坏的数据文件的自动检测功能；支持在UNLOAD时指定目标表名，方便恢复SYS用户数据。
+V8.1 完善对Disable Storage In Row的LOB类型处理，包括Lob Chunk大小的自动识别，增加对SecureFile LOB的完全支持。
