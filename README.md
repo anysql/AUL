@@ -20,5 +20,7 @@ V8.1 完善对Disable Storage In Row的LOB类型处理，包括Lob Chunk大小�
 
 # AUL(MyDUL)支持
   邮件：<span>any</span><span>sql</span>(@)126.com, <span>any</span><span>sql</span>(@)yahoo.com, <span>any</span><span>sql</span>(@)live.com
-  
+
+  微信：<span>any</span><span>sql</span>
+
   手机：<span>159</span>&nbsp;<span>256</span>&nbsp;<span>11590</span>
