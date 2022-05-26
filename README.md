@@ -1,4 +1,4 @@
-# AUL(MyDUL)工具
+# AUL(MyDUL) -- Oracle Data Recovery
   从2005年开始，AUL (MyDUL)已经为全球不同国家及地区的众多客户恢复了数十TB计的Oracle数据，从损坏的Oracle 8, Oracle 8i, Oracle 9i, Oracle 10g, Oracle 11g，Oracle 12c, Oracle 18c, Oracle 19c及Oracle ASM上为客户快速恢复数据. AUL(MyDUL)可以脱离Oracle运行环境，直接从数据文件中读取记录，与官方工具Oracle DUL具有同等功效并且功能更加丰富。当你遇到下列极端情况，并且没有有效备份(客户有备份动作，备份不起作用的情况也遇到过)用来恢复数据时, AUL(MyDUL)是往往是你最后的机会. 一直坚持“拯救数据，帮助客户”的原则！在最新版本AUL 6中, 可以直接访问Oracle ASM来恢复数据，或从Oracle ASM中将数据文件拷贝出来。
 
 1. 完全丢失系统表空间
