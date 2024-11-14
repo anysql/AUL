@@ -19,7 +19,7 @@ V6.6 完善对12C CLOB类型的支持; 增加对头部损坏的数据文件的�
 V8.1 完善对Disable Storage In Row的LOB类型处理，包括Lob Chunk大小的自动识别，增加对SecureFile LOB的完全支持。增加缺失System表空间时表结构的自动匹配功能，大大降底数据恢复难度。
 
 # AUL(MyDUL)支持
-  邮件：<span>any</span><span>sql</span>(@)126.com, <span>any</span><span>sql</span>(@)yahoo.com, <span>any</span><span>sql</span>(@)live.com
+  邮件：<span>any</span><span>sql</span>(@)live.com
 
   微信：<span>any</span><span>sql</span>
 
